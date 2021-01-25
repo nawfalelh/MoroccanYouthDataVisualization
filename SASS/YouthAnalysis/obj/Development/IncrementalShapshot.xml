@@ -1,0 +1,131 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>MoroccanYouthAnalysis</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>F6GStgagTEJxBPRkixIvrY80900=25/01/2021 19:02:3425/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>Youth DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>D43lVZuQsIQ04oJb8DKWmPWwPGQ=17/01/2020 14:19:5925/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>Youth DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>qqRGn0H1RD3vuxx4/GSE02CdF1I=17/01/2020 14:12:1025/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM AGE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ragqVPvImldWiuESPDgYW2bXF/M=17/01/2020 14:12:2125/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM AGE INTERVAL LVL 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>cYSJLIQ9GWb+vszPyGlTYTJRTJk=17/01/2020 14:12:3025/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM AGE INTERVAL LVL 2</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>xJ9H+Cv38YAd1/sM7Rdvq4x6Z9U=17/01/2020 14:12:3825/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM AGE INTERVAL LVL 3</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>G6oyVkgpX74HaFyzBHONoW9TZ84=17/01/2020 14:12:4625/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM AREA</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>nVXK9J+CSBPKhb5eD5TDng9a3jw=17/01/2020 14:12:5425/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM CAUSE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>2UgrSZPreRcvYfldZxN0bQEPE1s=17/01/2020 14:13:0325/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM CYCLE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/atpr6KmnqPq9Sqor3P1jT1JMjw=17/01/2020 14:13:1225/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM GENDER</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Vweo54lSA+8bk9raQOqXayEzBdo=17/01/2020 14:13:2125/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM GRADE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>goOUnaXXtQ9uaQUUCITePTMB06U=17/01/2020 14:13:5425/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM TIME</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Z3IAJVSqbD4lylq+7Crmj3FHIZ8=17/01/2020 14:20:2125/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>DIM SECTOR</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>8Dq7sGycIgFF6XNh76Wl5fTIURE=17/01/2020 18:11:1025/01/2021 18:59:26Wbkm5zaLtys7gWRH244XLeSr2K4=17/01/2020 14:14:0625/01/2021 18:59:26</TimeStamp>
+        <ID>
+          <String>Youth DW</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>8jTHqGtIdNJi/g7dQZoCP2qReLM=25/01/2021 19:05:3225/01/2021 18:59:26</TimeStamp>
+      <ID>
+        <String>MoroccanYouthAnalysis</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2021-01-25T18:09:37.3Z</LastDeployed>
+</DeploymentSnapshot>

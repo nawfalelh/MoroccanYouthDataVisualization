@@ -1,0 +1,988 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 61,
+        "sourceid": "2",
+        "lastupdated": "2020-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2020",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2019",
+            "value": 7.75503849182418,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2018",
+            "value": 7.78126773668113,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2017",
+            "value": 7.80956064678248,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2016",
+            "value": 7.81469991383927,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2015",
+            "value": 7.7800883219705,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2014",
+            "value": 7.70434413981621,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2013",
+            "value": 7.58075581748325,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2012",
+            "value": 7.42568931699828,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2011",
+            "value": 7.26688560570334,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2010",
+            "value": 7.12556529299041,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2009",
+            "value": 7.05597892454091,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2008",
+            "value": 6.98764606107749,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2007",
+            "value": 6.9233103751149,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2006",
+            "value": 6.86642540975295,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2005",
+            "value": 6.82265140872406,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2004",
+            "value": 6.89014097450399,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2003",
+            "value": 6.96302641331241,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2002",
+            "value": 7.03616014321615,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2001",
+            "value": 7.10186801097417,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2000",
+            "value": 7.15517728941698,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1999",
+            "value": 7.25684227399539,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1998",
+            "value": 7.36056813767736,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1997",
+            "value": 7.45183520298202,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1996",
+            "value": 7.51616291032162,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1995",
+            "value": 7.54466403303355,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1994",
+            "value": 7.53506125991111,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1993",
+            "value": 7.47357482666113,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1992",
+            "value": 7.36419117372249,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1991",
+            "value": 7.21402275825533,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1990",
+            "value": 7.03068741410717,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1989",
+            "value": 6.86961681340042,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1988",
+            "value": 6.69540255912479,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1987",
+            "value": 6.49941940069767,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1986",
+            "value": 6.25915064230296,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1985",
+            "value": 5.96054567962596,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1984",
+            "value": 5.61369036718322,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1983",
+            "value": 5.19170022349836,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1982",
+            "value": 4.7433014237257,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1981",
+            "value": 4.34934115061238,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1980",
+            "value": 4.06855845104811,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1979",
+            "value": 3.89546527439299,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1978",
+            "value": 3.85718488556548,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1977",
+            "value": 3.93940095320892,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1976",
+            "value": 4.08857805141043,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1975",
+            "value": 4.2597833329802,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1974",
+            "value": 4.476039630575,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1973",
+            "value": 4.71058377250479,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1972",
+            "value": 4.96008682683227,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1971",
+            "value": 5.21259245938091,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1970",
+            "value": 5.45415263167205,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1969",
+            "value": 5.62947630061509,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1968",
+            "value": 5.771371345946,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1967",
+            "value": 5.9060897569658,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1966",
+            "value": 6.06607644041389,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1965",
+            "value": 6.26364803653332,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1964",
+            "value": 6.50805564676362,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1963",
+            "value": 6.75673934622851,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1962",
+            "value": 6.99017754084538,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1961",
+            "value": 7.1677819870811,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.3034.MA.5Y",
+                "value": "Population ages 30-34, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1960",
+            "value": 7.25991492343158,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

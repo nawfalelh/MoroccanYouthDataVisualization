@@ -1,0 +1,988 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 61,
+        "sourceid": "2",
+        "lastupdated": "2020-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2020",
+            "value": 30.136999130249,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2019",
+            "value": 30.4720001220703,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2018",
+            "value": 30.8159999847412,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2017",
+            "value": 31.0669994354248,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2016",
+            "value": 32.9469985961914,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2015",
+            "value": 35.4659996032715,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2014",
+            "value": 37.1430015563965,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2013",
+            "value": 39.5620002746582,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2012",
+            "value": 41.7779998779297,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2011",
+            "value": 43.3629989624023,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2010",
+            "value": 43.4879989624023,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2009",
+            "value": 44.265998840332,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2008",
+            "value": 43.5709991455078,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2007",
+            "value": 45.7039985656738,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2006",
+            "value": 45.326000213623,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2005",
+            "value": 46.6469993591309,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2004",
+            "value": 47.0349998474121,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2003",
+            "value": 46.3390007019043,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2002",
+            "value": 46.3779983520508,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2001",
+            "value": 45.3240013122559,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2000",
+            "value": 44.7610015869141,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1999",
+            "value": 44.5060005187988,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1998",
+            "value": 44.7019996643066,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1997",
+            "value": 45.2150001525879,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1996",
+            "value": 45.185001373291,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1995",
+            "value": 46.1030006408691,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1994",
+            "value": 45.6980018615723,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1993",
+            "value": 46.6310005187988,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1992",
+            "value": 46.5839996337891,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1991",
+            "value": 46.492000579834,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1990",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1989",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1988",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1987",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1986",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1985",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1984",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1983",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1982",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1981",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1980",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1979",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1978",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1977",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1976",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1975",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1974",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1973",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1972",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1971",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1970",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1969",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1968",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1967",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1966",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1965",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1964",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1963",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1962",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1961",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.EMP.1524.SP.MA.ZS",
+                "value": "Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1960",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

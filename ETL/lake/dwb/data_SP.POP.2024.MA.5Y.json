@@ -1,0 +1,988 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 61,
+        "sourceid": "2",
+        "lastupdated": "2020-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2020",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2019",
+            "value": 8.19722453848748,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2018",
+            "value": 8.4377998551909,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2017",
+            "value": 8.69334796761451,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2016",
+            "value": 8.92237165390529,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2015",
+            "value": 9.09903588245301,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2014",
+            "value": 9.21922105939038,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2013",
+            "value": 9.2791530474851,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2012",
+            "value": 9.2945356962847,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2011",
+            "value": 9.29996043367267,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2010",
+            "value": 9.31930687869474,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2009",
+            "value": 9.42304177258303,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2008",
+            "value": 9.55810366638834,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2007",
+            "value": 9.69827760026995,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2006",
+            "value": 9.80544699491266,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2005",
+            "value": 9.85352444223716,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2004",
+            "value": 9.88426381235214,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2003",
+            "value": 9.86432532161792,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2002",
+            "value": 9.7999008995394,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2001",
+            "value": 9.71877226372957,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2000",
+            "value": 9.64555292268107,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1999",
+            "value": 9.54417295997066,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1998",
+            "value": 9.46647634889797,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1997",
+            "value": 9.40831573324728,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1996",
+            "value": 9.37443655559002,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1995",
+            "value": 9.3733268419736,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1994",
+            "value": 9.40563241151523,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1993",
+            "value": 9.4936594704151,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1992",
+            "value": 9.62115324160722,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1991",
+            "value": 9.76009800937896,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1990",
+            "value": 9.88541589904498,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1989",
+            "value": 10.002485338969,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1988",
+            "value": 10.1181304829582,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1987",
+            "value": 10.2156569119541,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1986",
+            "value": 10.2852542912808,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1985",
+            "value": 10.3215422209147,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1984",
+            "value": 10.2888898804367,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1983",
+            "value": 10.2147185640794,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1982",
+            "value": 10.0982658904197,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1981",
+            "value": 9.95413632238995,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1980",
+            "value": 9.79472394421303,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1979",
+            "value": 9.63053426365502,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1978",
+            "value": 9.45985873803642,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1977",
+            "value": 9.24734436808323,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1976",
+            "value": 8.95034107747396,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1975",
+            "value": 8.54930900889335,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1974",
+            "value": 8.10607702031467,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1973",
+            "value": 7.57792034560456,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1972",
+            "value": 7.01466352001659,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1971",
+            "value": 6.5209069902969,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1970",
+            "value": 6.17732231254596,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1969",
+            "value": 6.08179785085874,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1968",
+            "value": 6.13522562960788,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1967",
+            "value": 6.27651352348908,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1966",
+            "value": 6.44099290309421,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1965",
+            "value": 6.60520838968116,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1964",
+            "value": 6.82916317427799,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1963",
+            "value": 7.15030919600051,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1962",
+            "value": 7.53470566851689,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1961",
+            "value": 7.93388573520609,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.2024.MA.5Y",
+                "value": "Population ages 20-24, male (% of male population)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1960",
+            "value": 8.31294542008163,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

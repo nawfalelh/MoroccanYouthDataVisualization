@@ -1,0 +1,988 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 61,
+        "sourceid": "2",
+        "lastupdated": "2020-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2020",
+            "value": 21.6550006866455,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2019",
+            "value": 21.8419990539551,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2018",
+            "value": 22.0820007324219,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2017",
+            "value": 22.136999130249,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2016",
+            "value": 22.1660003662109,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2015",
+            "value": 20.5939998626709,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2014",
+            "value": 20.8889999389648,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2013",
+            "value": 19.4740009307861,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2012",
+            "value": 18.4930000305176,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2011",
+            "value": 18.1639995574951,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2010",
+            "value": 18.3899993896484,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2009",
+            "value": 17.3889999389648,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2008",
+            "value": 19.3530006408691,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2007",
+            "value": 16.4669990539551,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2006",
+            "value": 17.6529998779297,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2005",
+            "value": 16.378999710083,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2004",
+            "value": 15.9910001754761,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2003",
+            "value": 17.6720008850098,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2002",
+            "value": 18.1550006866455,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2001",
+            "value": 20.0300006866455,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2000",
+            "value": 21.9050006866455,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1999",
+            "value": 22.3850002288818,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1998",
+            "value": 22.0189990997314,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1997",
+            "value": 22.2980003356934,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1996",
+            "value": 21.8610000610352,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1995",
+            "value": 22.30299949646,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1994",
+            "value": 21.7929992675781,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1993",
+            "value": 21.9720001220703,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1992",
+            "value": 21.7310009002686,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1991",
+            "value": 21.2630004882813,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1990",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1989",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1988",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1987",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1986",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1985",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1984",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1983",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1982",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1981",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1980",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1979",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1978",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1977",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1976",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1975",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1974",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1973",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1972",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1971",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1970",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1969",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1968",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1967",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1966",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1965",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1964",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1963",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1962",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1961",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.1524.MA.ZS",
+                "value": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1960",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

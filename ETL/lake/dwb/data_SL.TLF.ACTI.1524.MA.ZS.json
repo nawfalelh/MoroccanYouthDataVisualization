@@ -1,0 +1,988 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 61,
+        "sourceid": "2",
+        "lastupdated": "2020-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2020",
+            "value": 38.4669990539551,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2019",
+            "value": 38.9879989624023,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2018",
+            "value": 39.5499992370605,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2017",
+            "value": 39.9000015258789,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2016",
+            "value": 42.3289985656738,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2015",
+            "value": 44.6640014648438,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2014",
+            "value": 46.9500007629395,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2013",
+            "value": 49.1300010681152,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2012",
+            "value": 51.2569999694824,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2011",
+            "value": 52.9879989624023,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2010",
+            "value": 53.2869987487793,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2009",
+            "value": 53.5839996337891,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2008",
+            "value": 54.0270004272461,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2007",
+            "value": 54.7140007019043,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2006",
+            "value": 55.0429992675781,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2005",
+            "value": 55.7840003967285,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2004",
+            "value": 55.9879989624023,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2003",
+            "value": 56.2859992980957,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2002",
+            "value": 56.6660003662109,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2001",
+            "value": 56.6769981384277,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "2000",
+            "value": 57.3160018920898,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1999",
+            "value": 57.3419990539551,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1998",
+            "value": 57.3230018615723,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1997",
+            "value": 58.189998626709,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1996",
+            "value": 57.8269996643066,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1995",
+            "value": 59.3370018005371,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1994",
+            "value": 58.431999206543,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1993",
+            "value": 59.7610015869141,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1992",
+            "value": 59.5169982910156,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1991",
+            "value": 59.0460014343262,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1990",
+            "value": 59.8279991149902,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1989",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1988",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1987",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1986",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1985",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1984",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1983",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1982",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1981",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1980",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1979",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1978",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1977",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1976",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1975",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1974",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1973",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1972",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1971",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1970",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1969",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1968",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1967",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1966",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1965",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1964",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1963",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1962",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1961",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SL.TLF.ACTI.1524.MA.ZS",
+                "value": "Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "MA",
+                "value": "Morocco"
+            },
+            "countryiso3code": "MAR",
+            "date": "1960",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

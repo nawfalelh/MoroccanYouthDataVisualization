@@ -1,0 +1,408 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="7a804e9b-b6f9-4950-8a60-86ffba4ff74a" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Youth DW</ID>
+  <Name>Youth DW</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>Youth DW</DataSourceID>
+  <Schema>
+    <xs:schema id="Youth_x0020_DW" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Youth_x0020_DW" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="fc5dfb36-2096-4b03-9ffb-499172a7b440">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_DIM_AGE" msprop:design-time-name="95dc49fe-f00b-4270-8201-12ec4285b1d1" msprop:DbTableName="DIM_AGE" msprop:FriendlyName="DIM_AGE" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="667b605b-7fea-40b2-8c82-62d213085b6a" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_AGE_INTERVAL_LVL_1" msprop:design-time-name="14b4b94a-ad9f-4ebd-8f3c-1a6a2d093155" msprop:DbColumnName="ID_AGE_INTERVAL_LVL_1" msprop:FriendlyName="ID_AGE_INTERVAL_LVL_1" type="xs:int" minOccurs="0" />
+                  <xs:element name="AGE" msprop:design-time-name="65629357-a168-4c49-8c11-3ecdb9600254" msprop:DbColumnName="AGE" msprop:FriendlyName="AGE" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_AGE_INTERVAL_LVL_1" msprop:design-time-name="9ff99de1-3852-40d7-841e-e826bd4c9fa6" msprop:DbTableName="DIM_AGE_INTERVAL_LVL_1" msprop:FriendlyName="DIM_AGE_INTERVAL_LVL_1" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="0d775bb8-8cec-45cb-9aae-7a7526fec448" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_AGE_INTERVAL_LVL_2" msprop:design-time-name="a7c4349d-feb5-4141-8c9f-46b66cb3576c" msprop:DbColumnName="ID_AGE_INTERVAL_LVL_2" msprop:FriendlyName="ID_AGE_INTERVAL_LVL_2" type="xs:int" minOccurs="0" />
+                  <xs:element name="AGE_INTERVAL" msprop:design-time-name="2407c6b5-6df6-4a10-b2de-8f3e19c4f615" msprop:DbColumnName="AGE_INTERVAL" msprop:FriendlyName="AGE_INTERVAL" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_AGE_INTERVAL_LVL_2" msprop:design-time-name="d34f2971-6a76-4ee9-87dd-f08dbc6d314d" msprop:DbTableName="DIM_AGE_INTERVAL_LVL_2" msprop:FriendlyName="DIM_AGE_INTERVAL_LVL_2" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="39046621-2ed4-48fb-a249-d3a6343f27e8" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_AGE_INTERVAL_LVL_3" msprop:design-time-name="031321ef-2181-4ff1-8ac4-4c009b892370" msprop:DbColumnName="ID_AGE_INTERVAL_LVL_3" msprop:FriendlyName="ID_AGE_INTERVAL_LVL_3" type="xs:int" minOccurs="0" />
+                  <xs:element name="AGE_INTERVAL" msprop:design-time-name="e4d802a9-3871-4cd9-b9d7-071915a1da1c" msprop:DbColumnName="AGE_INTERVAL" msprop:FriendlyName="AGE_INTERVAL" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_AGE_INTERVAL_LVL_3" msprop:design-time-name="793a9be1-15e2-4894-8632-1fa9ad62a973" msprop:DbTableName="DIM_AGE_INTERVAL_LVL_3" msprop:FriendlyName="DIM_AGE_INTERVAL_LVL_3" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="ee78e142-1deb-4e26-9672-141137092d33" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="AGE_INTERVAL" msprop:design-time-name="61fe496b-59ac-4018-8add-a5669e980dd4" msprop:DbColumnName="AGE_INTERVAL" msprop:FriendlyName="AGE_INTERVAL" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_AREA" msprop:design-time-name="9666b0d8-3070-4aee-9453-3f9b2b4547f2" msprop:DbTableName="DIM_AREA" msprop:FriendlyName="DIM_AREA" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="59d2a6a5-f214-4fb7-ab44-72f59868c856" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="AREA" msprop:design-time-name="c0b4ff7b-b70f-40a1-9a22-acfd6dc97798" msprop:DbColumnName="AREA" msprop:FriendlyName="AREA" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_CAUSE" msprop:design-time-name="f984718f-82e4-48ff-a8fe-c64a666c7ad7" msprop:DbTableName="DIM_CAUSE" msprop:FriendlyName="DIM_CAUSE" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="d716008c-43f2-456c-b839-668fb5b4105c" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="CAUSE" msprop:design-time-name="7c070ac8-d350-4ec3-859d-c8f18b4bfb5d" msprop:DbColumnName="CAUSE" msprop:FriendlyName="CAUSE" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_CYCLE" msprop:design-time-name="920034c8-d213-4286-8350-16050f52eff5" msprop:DbTableName="DIM_CYCLE" msprop:FriendlyName="DIM_CYCLE" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="cc2f6463-e662-40f3-bcc0-afd0a8a8ee87" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="CYCLE" msprop:design-time-name="609a0b7c-1efe-4133-874a-4a6e4f4cfdd7" msprop:DbColumnName="CYCLE" msprop:FriendlyName="CYCLE" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_GENDER" msprop:design-time-name="380235dd-90a6-4602-9bcc-601b0a9a7964" msprop:DbTableName="DIM_GENDER" msprop:FriendlyName="DIM_GENDER" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="b31a1328-473b-4ea1-b0cd-abab98aea3e1" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="GENDER" msprop:design-time-name="3a30e86a-1754-4816-a38d-e081042b0224" msprop:DbColumnName="GENDER" msprop:FriendlyName="GENDER" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_GRADE" msprop:design-time-name="e9265479-7240-4f2a-b7e9-f793aeda957c" msprop:DbTableName="DIM_GRADE" msprop:FriendlyName="DIM_GRADE" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="dde4192c-c993-4f46-80f3-a17d180bd5c6" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_CYCLE" msprop:design-time-name="8185b500-2b5e-46c0-9482-dba5f7cfed92" msprop:DbColumnName="ID_CYCLE" msprop:FriendlyName="ID_CYCLE" type="xs:int" minOccurs="0" />
+                  <xs:element name="GRADE" msprop:design-time-name="d0928849-2727-4b0d-856e-7295ff28c218" msprop:DbColumnName="GRADE" msprop:FriendlyName="GRADE" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_SECTOR" msprop:design-time-name="daa43612-26a1-468a-8ffb-175847318e07" msprop:DbTableName="DIM_SECTOR" msprop:FriendlyName="DIM_SECTOR" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="cc242a6d-5941-4d52-a748-237565a28161" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="SECTOR" msprop:design-time-name="9d471f61-558c-4523-940a-5f552aac92cb" msprop:DbColumnName="SECTOR" msprop:FriendlyName="SECTOR" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DIM_TIME" msprop:design-time-name="84800aa2-8c33-49a3-abc0-b35c19925748" msprop:DbTableName="DIM_TIME" msprop:FriendlyName="DIM_TIME" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="54933af1-9259-4909-a61f-dccfb7c31f5c" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="YEAR" msprop:design-time-name="4c2850b3-dbae-4577-a771-ebda0faabd4d" msprop:DbColumnName="YEAR" msprop:FriendlyName="YEAR" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_FACT_ACTIVITY_DWB" msprop:design-time-name="bb54d6c6-4d54-4a87-a5a1-d760f7ed09e6" msprop:DbTableName="FACT_ACTIVITY_DWB" msprop:FriendlyName="FACT_ACTIVITY_DWB" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="0f700178-0a1c-4408-90dc-b701566f88ee" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_TIME" msprop:design-time-name="7a163459-465d-4b0d-94fc-0260244cbce7" msprop:DbColumnName="ID_TIME" msprop:FriendlyName="ID_TIME" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_GENDER" msprop:design-time-name="65f6c41f-b2f0-4c3c-ae0a-c7ebed89b686" msprop:DbColumnName="ID_GENDER" msprop:FriendlyName="ID_GENDER" type="xs:int" minOccurs="0" />
+                  <xs:element name="EMPLOYMENT" msprop:design-time-name="d30d3ba0-8f90-4f88-83ef-7a3c3ee9d145" msprop:DbColumnName="EMPLOYMENT" msprop:FriendlyName="EMPLOYMENT" type="xs:double" minOccurs="0" />
+                  <xs:element name="UNEMPLOYMENT" msprop:design-time-name="d3b2db72-c3cf-4cdf-96eb-cb3c9c3df4a2" msprop:DbColumnName="UNEMPLOYMENT" msprop:FriendlyName="UNEMPLOYMENT" type="xs:double" minOccurs="0" />
+                  <xs:element name="LABOR_FORCE_PARTICIPATION" msprop:design-time-name="a8cee0ec-7b52-4524-baae-8cab970830bb" msprop:DbColumnName="LABOR_FORCE_PARTICIPATION" msprop:FriendlyName="LABOR_FORCE_PARTICIPATION" type="xs:double" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_FACT_ACTIVITY_HCP" msprop:design-time-name="bfdb8e00-ff93-4721-9566-69e7f10e4544" msprop:DbTableName="FACT_ACTIVITY_HCP" msprop:FriendlyName="FACT_ACTIVITY_HCP" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="fd2607f3-29db-4237-adc6-fc308f052a81" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_TIME" msprop:design-time-name="b74ec493-0fdb-4209-971a-6e80d85c634d" msprop:DbColumnName="ID_TIME" msprop:FriendlyName="ID_TIME" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_GENDER" msprop:design-time-name="55e067c8-6b0e-4053-bc31-aebcbc52c65c" msprop:DbColumnName="ID_GENDER" msprop:FriendlyName="ID_GENDER" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_AREA" msprop:design-time-name="3ab50d45-ca8f-46a1-8930-271b89e98804" msprop:DbColumnName="ID_AREA" msprop:FriendlyName="ID_AREA" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_AGE_INTERVAL" msprop:design-time-name="ef7a4218-748c-4b63-87d3-3f618edbaff7" msprop:DbColumnName="ID_AGE_INTERVAL" msprop:FriendlyName="ID_AGE_INTERVAL" type="xs:int" minOccurs="0" />
+                  <xs:element name="PERCENTAGE" msprop:design-time-name="3f724e99-889d-4763-b80a-215fea0a6958" msprop:DbColumnName="PERCENTAGE" msprop:FriendlyName="PERCENTAGE" type="xs:double" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_FACT_DEMOG_DWB" msprop:design-time-name="f88a35d7-fa62-4288-9fa2-2164646b3228" msprop:DbTableName="FACT_DEMOG_DWB" msprop:FriendlyName="FACT_DEMOG_DWB" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="7004cfcf-d1e2-49ff-8567-489977b6a53a" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_TIME" msprop:design-time-name="3963ed3b-3d0f-4409-a402-bdce56a59fe9" msprop:DbColumnName="ID_TIME" msprop:FriendlyName="ID_TIME" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_GENDER" msprop:design-time-name="2ca246c4-5b5c-4de4-8f79-39a0c094c91e" msprop:DbColumnName="ID_GENDER" msprop:FriendlyName="ID_GENDER" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_AGE_INTERVAL" msprop:design-time-name="9b4c427a-2565-49b7-99f0-79cf59e63960" msprop:DbColumnName="ID_AGE_INTERVAL" msprop:FriendlyName="ID_AGE_INTERVAL" type="xs:int" minOccurs="0" />
+                  <xs:element name="POP" msprop:design-time-name="d331f760-ad73-489e-9098-7b407a4a4862" msprop:DbColumnName="POP" msprop:FriendlyName="POP" type="xs:int" minOccurs="0" />
+                  <xs:element name="TOTAL_POP" msprop:design-time-name="ed6cd1ed-72a6-478f-a445-1b0eee822a14" msprop:DbColumnName="TOTAL_POP" msprop:FriendlyName="TOTAL_POP" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_FACT_DEMOG_HCP" msprop:design-time-name="6baf1cd2-fe95-4074-af86-03ec11cd2851" msprop:DbTableName="FACT_DEMOG_HCP" msprop:FriendlyName="FACT_DEMOG_HCP" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="b965c348-c16a-4f65-be39-40e19f0f145c" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_TIME" msprop:design-time-name="f72a0bae-8c4e-48e5-9a6d-4f71c4f1c730" msprop:DbColumnName="ID_TIME" msprop:FriendlyName="ID_TIME" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_AREA" msprop:design-time-name="f10e1c08-467f-4001-a487-d68032f65f99" msprop:DbColumnName="ID_AREA" msprop:FriendlyName="ID_AREA" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_AGE_INTERVAL" msprop:design-time-name="7e562f87-7c98-4db4-b5e4-b953ed6d85fa" msprop:DbColumnName="ID_AGE_INTERVAL" msprop:FriendlyName="ID_AGE_INTERVAL" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_GENDER" msprop:design-time-name="497484f6-e4d3-4602-b552-fc8b3a037836" msprop:DbColumnName="ID_GENDER" msprop:FriendlyName="ID_GENDER" type="xs:int" minOccurs="0" />
+                  <xs:element name="POP" msprop:design-time-name="a6211e77-6eba-4e29-9922-990b1cde7035" msprop:DbColumnName="POP" msprop:FriendlyName="POP" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_FACT_EDUC_HCP" msprop:design-time-name="36e29d8c-03af-4ba9-a375-534d4a37bf88" msprop:DbTableName="FACT_EDUC_HCP" msprop:FriendlyName="FACT_EDUC_HCP" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="e97cdb87-0db2-41c0-b598-6abe40c63bfa" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_TIME" msprop:design-time-name="95c395db-c62a-4d65-9abd-ec2925be9cae" msprop:DbColumnName="ID_TIME" msprop:FriendlyName="ID_TIME" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_SECTOR" msprop:design-time-name="776570aa-a092-4dfe-8715-021d98e5a2ec" msprop:DbColumnName="ID_SECTOR" msprop:FriendlyName="ID_SECTOR" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_AGE" msprop:design-time-name="a30beb27-8af0-4f78-9e05-9ba29f8c8f41" msprop:DbColumnName="ID_AGE" msprop:FriendlyName="ID_AGE" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_GRADE" msprop:design-time-name="1d2b0d9b-060d-4511-97e6-5cd5f9b616b8" msprop:DbColumnName="ID_GRADE" msprop:FriendlyName="ID_GRADE" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_GENDER" msprop:design-time-name="d0e34bee-5040-4e3c-87da-9cf928614fba" msprop:DbColumnName="ID_GENDER" msprop:FriendlyName="ID_GENDER" type="xs:int" minOccurs="0" />
+                  <xs:element name="NUMBER" msprop:design-time-name="d07228b3-97f0-40df-9938-faaa72a36b6b" msprop:DbColumnName="NUMBER" msprop:FriendlyName="NUMBER" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_FACT_HEALTH_DWB" msprop:design-time-name="8ee5d440-a953-4591-b76e-2d93c1aeb6e6" msprop:DbTableName="FACT_HEALTH_DWB" msprop:FriendlyName="FACT_HEALTH_DWB" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="12f92368-6c79-4c74-82db-f77e2bd5cf3d" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_TIME" msprop:design-time-name="22607742-9ba0-46cb-8e25-e0b6c2981f83" msprop:DbColumnName="ID_TIME" msprop:FriendlyName="ID_TIME" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_GENDER" msprop:design-time-name="ffff73ce-3a89-4e63-b862-569d7a6425e7" msprop:DbColumnName="ID_GENDER" msprop:FriendlyName="ID_GENDER" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_CAUSE" msprop:design-time-name="d0c17e68-1fec-4c8d-a5b9-6588b9e141d5" msprop:DbColumnName="ID_CAUSE" msprop:FriendlyName="ID_CAUSE" type="xs:int" minOccurs="0" />
+                  <xs:element name="PERCENTAGE" msprop:design-time-name="6a7c8d3c-2a57-4614-b5af-4cb30508c44a" msprop:DbColumnName="PERCENTAGE" msprop:FriendlyName="PERCENTAGE" type="xs:double" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_FACT_LITERACY" msprop:design-time-name="55059eec-c873-45f6-8e64-8238deca9289" msprop:DbTableName="FACT_LITERACY" msprop:FriendlyName="FACT_LITERACY" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="6ff94cca-7096-4c54-a4f6-4122fd3de110" msprop:DbColumnName="ID" msprop:FriendlyName="ID" type="xs:int" />
+                  <xs:element name="ID_TIME" msprop:design-time-name="3e3e8abc-224d-4f6b-97ea-a3bba7863d28" msprop:DbColumnName="ID_TIME" msprop:FriendlyName="ID_TIME" type="xs:int" minOccurs="0" />
+                  <xs:element name="ID_GENDER" msprop:design-time-name="2eb6fe44-b611-4def-bf79-4ecef5e222c1" msprop:DbColumnName="ID_GENDER" msprop:FriendlyName="ID_GENDER" type="xs:int" minOccurs="0" />
+                  <xs:element name="PERCENTAGE" msprop:design-time-name="e64a4c3a-a42f-449a-b667-308f453baa6e" msprop:DbColumnName="PERCENTAGE" msprop:FriendlyName="PERCENTAGE" type="xs:double" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_AGE" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_AGE_INTERVAL_LVL_1_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_AGE_INTERVAL_LVL_1" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_AGE_INTERVAL_LVL_2_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_AGE_INTERVAL_LVL_2" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_AGE_INTERVAL_LVL_3_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_AGE_INTERVAL_LVL_3" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_AREA_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_AREA" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_CAUSE_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_CAUSE" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_CYCLE_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_CYCLE" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_GENDER_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_GENDER" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_GRADE_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_GRADE" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_SECTOR_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_SECTOR" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_DIM_TIME_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DIM_TIME" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_FACT_ACTIVITY_DWB_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FACT_ACTIVITY_DWB" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_FACT_ACTIVITY_HCP_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FACT_ACTIVITY_HCP" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_FACT_DEMOG_DWB_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_DWB" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_FACT_DEMOG_HCP_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_HCP" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_FACT_EDUC_HCP_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FACT_EDUC_HCP" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_FACT_HEALTH_DWB_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FACT_HEALTH_DWB" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:unique name="dbo_FACT_LITERACY_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FACT_LITERACY" />
+          <xs:field xpath="ID" />
+        </xs:unique>
+        <xs:keyref name="FK__FACT_LITE__ID_GE__32E0915F" refer="dbo_DIM_GENDER_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_LITERACY" />
+          <xs:field xpath="ID_GENDER" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_LITE__ID_TI__31EC6D26" refer="dbo_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_LITERACY" />
+          <xs:field xpath="ID_TIME" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_HEAL__ID_GE__36B12243" refer="dbo_DIM_GENDER_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_HEALTH_DWB" />
+          <xs:field xpath="ID_GENDER" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_HEAL__ID_TI__35BCFE0A" refer="dbo_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_HEALTH_DWB" />
+          <xs:field xpath="ID_TIME" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_HEAL__ID_CA__37A5467C" refer="dbo_DIM_CAUSE_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_HEALTH_DWB" />
+          <xs:field xpath="ID_CAUSE" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_EDUC__ID_TI__59FA5E80" refer="dbo_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_EDUC_HCP" />
+          <xs:field xpath="ID_TIME" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_EDUC__ID_AG__5BE2A6F2" refer="Constraint1">
+          <xs:selector xpath=".//dbo_FACT_EDUC_HCP" />
+          <xs:field xpath="ID_AGE" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_EDUC__ID_GE__5DCAEF64" refer="dbo_DIM_GENDER_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_EDUC_HCP" />
+          <xs:field xpath="ID_GENDER" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_EDUC__ID_GR__5CD6CB2B" refer="dbo_DIM_GRADE_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_EDUC_HCP" />
+          <xs:field xpath="ID_GRADE" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_EDUC__ID_SE__5AEE82B9" refer="dbo_DIM_SECTOR_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_EDUC_HCP" />
+          <xs:field xpath="ID_SECTOR" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_DEMO__ID_GE__5441852A" refer="dbo_DIM_GENDER_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_HCP" />
+          <xs:field xpath="ID_GENDER" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_DEMO__ID_AR__52593CB8" refer="dbo_DIM_AREA_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_HCP" />
+          <xs:field xpath="ID_AREA" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_DEMO__ID_AG__534D60F1" refer="dbo_DIM_AGE_INTERVAL_LVL_1_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_HCP" />
+          <xs:field xpath="ID_AGE_INTERVAL" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_DEMO__ID_TI__5165187F" refer="dbo_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_HCP" />
+          <xs:field xpath="ID_TIME" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_DEMO__ID_GE__4D94879B" refer="dbo_DIM_GENDER_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_DWB" />
+          <xs:field xpath="ID_GENDER" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_DEMO__ID_TI__4CA06362" refer="dbo_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_DWB" />
+          <xs:field xpath="ID_TIME" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_DEMO__ID_AG__4E88ABD4" refer="dbo_DIM_AGE_INTERVAL_LVL_1_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_DEMOG_DWB" />
+          <xs:field xpath="ID_AGE_INTERVAL" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_ACTI__ID_TI__440B1D61" refer="dbo_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_ACTIVITY_HCP" />
+          <xs:field xpath="ID_TIME" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_ACTI__ID_AG__46E78A0C" refer="dbo_DIM_AGE_INTERVAL_LVL_2_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_ACTIVITY_HCP" />
+          <xs:field xpath="ID_AGE_INTERVAL" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_ACTI__ID_GE__44FF419A" refer="dbo_DIM_GENDER_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_ACTIVITY_HCP" />
+          <xs:field xpath="ID_GENDER" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_ACTI__ID_AR__45F365D3" refer="dbo_DIM_AREA_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_ACTIVITY_HCP" />
+          <xs:field xpath="ID_AREA" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_ACTI__ID_TI__3A81B327" refer="dbo_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_ACTIVITY_DWB" />
+          <xs:field xpath="ID_TIME" />
+        </xs:keyref>
+        <xs:keyref name="FK__FACT_ACTI__ID_GE__3B75D760" refer="dbo_DIM_GENDER_Constraint1">
+          <xs:selector xpath=".//dbo_FACT_ACTIVITY_DWB" />
+          <xs:field xpath="ID_GENDER" />
+        </xs:keyref>
+        <xs:keyref name="FK__DIM_GRADE__ID_CY__412EB0B6" refer="dbo_DIM_CYCLE_Constraint1">
+          <xs:selector xpath=".//dbo_DIM_GRADE" />
+          <xs:field xpath="ID_CYCLE" />
+        </xs:keyref>
+        <xs:keyref name="FK__DIM_AGE_I__ID_AG__3E52440B" refer="dbo_DIM_AGE_INTERVAL_LVL_3_Constraint1">
+          <xs:selector xpath=".//dbo_DIM_AGE_INTERVAL_LVL_2" />
+          <xs:field xpath="ID_AGE_INTERVAL_LVL_3" />
+        </xs:keyref>
+        <xs:keyref name="FK__DIM_AGE_I__ID_AG__49C3F6B7" refer="dbo_DIM_AGE_INTERVAL_LVL_2_Constraint1">
+          <xs:selector xpath=".//dbo_DIM_AGE_INTERVAL_LVL_1" />
+          <xs:field xpath="ID_AGE_INTERVAL_LVL_2" />
+        </xs:keyref>
+        <xs:keyref name="FK__DIM_AGE__ID_AGE___571DF1D5" refer="dbo_DIM_AGE_INTERVAL_LVL_1_Constraint1">
+          <xs:selector xpath=".//dbo_DIM_AGE" />
+          <xs:field xpath="ID_AGE_INTERVAL_LVL_1" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <Youth_x0020_DW xmlns="" />
+  </Schema>
+</DataSourceView>

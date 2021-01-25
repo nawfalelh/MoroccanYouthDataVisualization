@@ -1,0 +1,145 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="77116b55-c7ab-48dd-aa9e-5e76a33fd3c3" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Youth DW</ID>
+  <MeasureGroups>
+    <MeasureGroup>
+      <ID>FACT ACTIVITY DWB</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="ab001f00-9960-414e-b8d5-3a56fb5205b9">
+          <ID>FACT ACTIVITY DWB</ID>
+          <Name>FACT ACTIVITY DWB</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="588d41a5-1083-4537-992b-1288ccda6337">
+            <DataSourceViewID>Youth DW</DataSourceViewID>
+            <TableID>dbo_FACT_ACTIVITY_DWB</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>FACT ACTIVITY HCP</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="b2c81650-d612-401f-8651-7d86b2edab81">
+          <ID>FACT ACTIVITY HCP</ID>
+          <Name>FACT ACTIVITY HCP</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="64e40bb9-a6cb-4cce-801a-a0a1c10478f3">
+            <DataSourceViewID>Youth DW</DataSourceViewID>
+            <TableID>dbo_FACT_ACTIVITY_HCP</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>FACT DEMOG DWB</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="51bc8885-ecb1-44e2-9e7d-deef364567e9">
+          <ID>FACT DEMOG DWB</ID>
+          <Name>FACT DEMOG DWB</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="d2f8d52d-d2e0-4408-a781-0768c556f0ad">
+            <DataSourceViewID>Youth DW</DataSourceViewID>
+            <TableID>dbo_FACT_DEMOG_DWB</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>FACT DEMOG HCP</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="90b48c51-3405-49c4-9e03-d121fb2dd1a0">
+          <ID>FACT DEMOG HCP</ID>
+          <Name>FACT DEMOG HCP</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="120893ac-1d42-42a5-b867-6655a43654c7">
+            <DataSourceViewID>Youth DW</DataSourceViewID>
+            <TableID>dbo_FACT_DEMOG_HCP</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>FACT EDUC HCP</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="fe96f527-6f14-43e1-a681-1c74a882d11e">
+          <ID>FACT EDUC HCP</ID>
+          <Name>FACT EDUC HCP</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="ed9540f6-c529-4983-8895-54538137053d">
+            <DataSourceViewID>Youth DW</DataSourceViewID>
+            <TableID>dbo_FACT_EDUC_HCP</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>FACT HEALTH DWB</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="da7b35d3-d8b5-4aaf-a380-a6218ca70c33">
+          <ID>FACT HEALTH DWB</ID>
+          <Name>FACT HEALTH DWB</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="05fcbec6-5fbd-42b5-b4fc-159f90605751">
+            <DataSourceViewID>Youth DW</DataSourceViewID>
+            <TableID>dbo_FACT_HEALTH_DWB</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>FACT LITERACY</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="b28a31e2-6a6a-4385-bf56-a1654dfdc461">
+          <ID>FACT LITERACY</ID>
+          <Name>FACT LITERACY</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="c387d0bb-05b9-4f5f-9b6b-e3049177cf63">
+            <DataSourceViewID>Youth DW</DataSourceViewID>
+            <TableID>dbo_FACT_LITERACY</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+  </MeasureGroups>
+</Cube>

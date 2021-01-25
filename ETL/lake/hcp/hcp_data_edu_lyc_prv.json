@@ -1,0 +1,1787 @@
+{
+    "indLibelle": "Nombre d'élève de l'enseignement secondaire qualifiant privé",
+    "metaData": {
+        "decription": null,
+        "periodicite": "Annuelle",
+        "unite": "NOMBRE",
+        "source": " BDS "
+    },
+    "periodes": [
+        "1970",
+        "1971",
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "levels": [
+        {
+            "sub-levels": [
+                {
+                    "serie": {
+                        "data": [
+                            {
+                                "valeur": "8035",
+                                "annee": "1970"
+                            },
+                            {
+                                "valeur": "5119",
+                                "annee": "1971"
+                            },
+                            {
+                                "valeur": "7801",
+                                "annee": "1972"
+                            },
+                            {
+                                "valeur": "8011",
+                                "annee": "1973"
+                            },
+                            {
+                                "valeur": "7637",
+                                "annee": "1974"
+                            },
+                            {
+                                "valeur": "7428",
+                                "annee": "1975"
+                            },
+                            {
+                                "valeur": "10835",
+                                "annee": "1976"
+                            },
+                            {
+                                "valeur": "9745",
+                                "annee": "1977"
+                            },
+                            {
+                                "valeur": "10007",
+                                "annee": "1978"
+                            },
+                            {
+                                "valeur": "10764",
+                                "annee": "1979"
+                            },
+                            {
+                                "valeur": "11641",
+                                "annee": "1980"
+                            },
+                            {
+                                "valeur": "13000",
+                                "annee": "1981"
+                            },
+                            {
+                                "valeur": "16531",
+                                "annee": "1982"
+                            },
+                            {
+                                "valeur": "19844",
+                                "annee": "1983"
+                            },
+                            {
+                                "valeur": "23436",
+                                "annee": "1984"
+                            },
+                            {
+                                "valeur": "26313",
+                                "annee": "1985"
+                            },
+                            {
+                                "valeur": "28745",
+                                "annee": "1986"
+                            },
+                            {
+                                "valeur": "32570",
+                                "annee": "1987"
+                            },
+                            {
+                                "valeur": "32227",
+                                "annee": "1988"
+                            },
+                            {
+                                "valeur": "30989",
+                                "annee": "1989"
+                            },
+                            {
+                                "valeur": "28026",
+                                "annee": "1990"
+                            },
+                            {
+                                "valeur": "23056",
+                                "annee": "1991"
+                            },
+                            {
+                                "valeur": "28448",
+                                "annee": "1992"
+                            },
+                            {
+                                "valeur": "27165",
+                                "annee": "1993"
+                            },
+                            {
+                                "valeur": "27570",
+                                "annee": "1994"
+                            },
+                            {
+                                "valeur": "28035",
+                                "annee": "1995"
+                            },
+                            {
+                                "valeur": "30157",
+                                "annee": "1996"
+                            },
+                            {
+                                "valeur": "30371",
+                                "annee": "1997"
+                            },
+                            {
+                                "valeur": "29900",
+                                "annee": "1998"
+                            },
+                            {
+                                "valeur": "29164",
+                                "annee": "1999"
+                            },
+                            {
+                                "valeur": "31390",
+                                "annee": "2000"
+                            },
+                            {
+                                "valeur": "31355",
+                                "annee": "2001"
+                            },
+                            {
+                                "valeur": "30710",
+                                "annee": "2002"
+                            },
+                            {
+                                "valeur": "28736",
+                                "annee": "2003"
+                            },
+                            {
+                                "valeur": "29749",
+                                "annee": "2004"
+                            },
+                            {
+                                "valeur": "29606",
+                                "annee": "2005"
+                            },
+                            {
+                                "valeur": "32932",
+                                "annee": "2006"
+                            },
+                            {
+                                "valeur": "43119",
+                                "annee": "2007"
+                            },
+                            {
+                                "valeur": "41769",
+                                "annee": "2008"
+                            },
+                            {
+                                "valeur": "53732",
+                                "annee": "2009"
+                            },
+                            {
+                                "valeur": "65001",
+                                "annee": "2010"
+                            },
+                            {
+                                "valeur": "74014",
+                                "annee": "2011"
+                            },
+                            {
+                                "valeur": "81234",
+                                "annee": "2012"
+                            },
+                            {
+                                "valeur": "78464",
+                                "annee": "2013"
+                            },
+                            {
+                                "valeur": "82825",
+                                "annee": "2014"
+                            },
+                            {
+                                "valeur": "85791",
+                                "annee": "2015"
+                            },
+                            {
+                                "valeur": "89258",
+                                "annee": "2016"
+                            },
+                            {
+                                "valeur": "92375",
+                                "annee": "2017"
+                            },
+                            {
+                                "valeur": "96739",
+                                "annee": "2018"
+                            },
+                            {
+                                "valeur": "101549",
+                                "annee": "2019"
+                            }
+                        ],
+                        "libelle": "Total"
+                    },
+                    "rang-level": 1
+                },
+                {
+                    "serie": {
+                        "data": [
+                            {
+                                "valeur": "2740",
+                                "annee": "1970"
+                            },
+                            {
+                                "valeur": "1569",
+                                "annee": "1971"
+                            },
+                            {
+                                "valeur": "3231",
+                                "annee": "1972"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1973"
+                            },
+                            {
+                                "valeur": "3622",
+                                "annee": "1974"
+                            },
+                            {
+                                "valeur": "3231",
+                                "annee": "1975"
+                            },
+                            {
+                                "valeur": "5110",
+                                "annee": "1976"
+                            },
+                            {
+                                "valeur": "4194",
+                                "annee": "1977"
+                            },
+                            {
+                                "valeur": "4411",
+                                "annee": "1978"
+                            },
+                            {
+                                "valeur": "4703",
+                                "annee": "1979"
+                            },
+                            {
+                                "valeur": "4998",
+                                "annee": "1980"
+                            },
+                            {
+                                "valeur": "5504",
+                                "annee": "1981"
+                            },
+                            {
+                                "valeur": "6287",
+                                "annee": "1982"
+                            },
+                            {
+                                "valeur": "8042",
+                                "annee": "1983"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1984"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1985"
+                            },
+                            {
+                                "valeur": "10237",
+                                "annee": "1986"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1987"
+                            },
+                            {
+                                "valeur": "10248",
+                                "annee": "1988"
+                            },
+                            {
+                                "valeur": "8761",
+                                "annee": "1989"
+                            },
+                            {
+                                "valeur": "9014",
+                                "annee": "1990"
+                            },
+                            {
+                                "valeur": "8198",
+                                "annee": "1991"
+                            },
+                            {
+                                "valeur": "9307",
+                                "annee": "1992"
+                            },
+                            {
+                                "valeur": "8708",
+                                "annee": "1993"
+                            },
+                            {
+                                "valeur": "8784",
+                                "annee": "1994"
+                            },
+                            {
+                                "valeur": "10068",
+                                "annee": "1995"
+                            },
+                            {
+                                "valeur": "10465",
+                                "annee": "1996"
+                            },
+                            {
+                                "valeur": "10641",
+                                "annee": "1997"
+                            },
+                            {
+                                "valeur": "10719",
+                                "annee": "1998"
+                            },
+                            {
+                                "valeur": "10749",
+                                "annee": "1999"
+                            },
+                            {
+                                "valeur": "12219",
+                                "annee": "2000"
+                            },
+                            {
+                                "valeur": "12623",
+                                "annee": "2001"
+                            },
+                            {
+                                "valeur": "11893",
+                                "annee": "2002"
+                            },
+                            {
+                                "valeur": "10700",
+                                "annee": "2003"
+                            },
+                            {
+                                "valeur": "11833",
+                                "annee": "2004"
+                            },
+                            {
+                                "valeur": "11399",
+                                "annee": "2005"
+                            },
+                            {
+                                "valeur": "12922",
+                                "annee": "2006"
+                            },
+                            {
+                                "valeur": "17879",
+                                "annee": "2007"
+                            },
+                            {
+                                "valeur": "17316",
+                                "annee": "2008"
+                            },
+                            {
+                                "valeur": "23301",
+                                "annee": "2009"
+                            },
+                            {
+                                "valeur": "28938",
+                                "annee": "2010"
+                            },
+                            {
+                                "valeur": "32769",
+                                "annee": "2011"
+                            },
+                            {
+                                "valeur": "35815",
+                                "annee": "2012"
+                            },
+                            {
+                                "valeur": "35332",
+                                "annee": "2013"
+                            },
+                            {
+                                "valeur": "37335",
+                                "annee": "2014"
+                            },
+                            {
+                                "valeur": "39268",
+                                "annee": "2015"
+                            },
+                            {
+                                "valeur": "41879",
+                                "annee": "2016"
+                            },
+                            {
+                                "valeur": "34853",
+                                "annee": "2017"
+                            },
+                            {
+                                "valeur": "46591",
+                                "annee": "2018"
+                            },
+                            {
+                                "valeur": "49403",
+                                "annee": "2019"
+                            }
+                        ],
+                        "libelle": "Feminin"
+                    },
+                    "rang-level": 2
+                }
+            ],
+            "rang-level": 1
+        },
+        {
+            "sub-levels": [
+                {
+                    "serie": {
+                        "data": [
+                            {
+                                "valeur": "2833",
+                                "annee": "1970"
+                            },
+                            {
+                                "valeur": "1858",
+                                "annee": "1971"
+                            },
+                            {
+                                "valeur": "3100",
+                                "annee": "1972"
+                            },
+                            {
+                                "valeur": "3259",
+                                "annee": "1973"
+                            },
+                            {
+                                "valeur": "3024",
+                                "annee": "1974"
+                            },
+                            {
+                                "valeur": "2982",
+                                "annee": "1975"
+                            },
+                            {
+                                "valeur": "4399",
+                                "annee": "1976"
+                            },
+                            {
+                                "valeur": "3874",
+                                "annee": "1977"
+                            },
+                            {
+                                "valeur": "4057",
+                                "annee": "1978"
+                            },
+                            {
+                                "valeur": "4509",
+                                "annee": "1979"
+                            },
+                            {
+                                "valeur": "4550",
+                                "annee": "1980"
+                            },
+                            {
+                                "valeur": "4951",
+                                "annee": "1981"
+                            },
+                            {
+                                "valeur": "6719",
+                                "annee": "1982"
+                            },
+                            {
+                                "valeur": "8168",
+                                "annee": "1983"
+                            },
+                            {
+                                "valeur": "8305",
+                                "annee": "1984"
+                            },
+                            {
+                                "valeur": "8639",
+                                "annee": "1985"
+                            },
+                            {
+                                "valeur": "10944",
+                                "annee": "1986"
+                            },
+                            {
+                                "valeur": "11077",
+                                "annee": "1987"
+                            },
+                            {
+                                "valeur": "10858",
+                                "annee": "1988"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1989"
+                            },
+                            {
+                                "valeur": "9060",
+                                "annee": "1990"
+                            },
+                            {
+                                "valeur": "4600",
+                                "annee": "1991"
+                            },
+                            {
+                                "valeur": "8611",
+                                "annee": "1992"
+                            },
+                            {
+                                "valeur": "8178",
+                                "annee": "1993"
+                            },
+                            {
+                                "valeur": "8877",
+                                "annee": "1994"
+                            },
+                            {
+                                "valeur": "8321",
+                                "annee": "1995"
+                            },
+                            {
+                                "valeur": "8076",
+                                "annee": "1996"
+                            },
+                            {
+                                "valeur": "7600",
+                                "annee": "1997"
+                            },
+                            {
+                                "valeur": "8421",
+                                "annee": "1998"
+                            },
+                            {
+                                "valeur": "8423",
+                                "annee": "1999"
+                            },
+                            {
+                                "valeur": "10502",
+                                "annee": "2000"
+                            },
+                            {
+                                "valeur": "8963",
+                                "annee": "2001"
+                            },
+                            {
+                                "valeur": "9134",
+                                "annee": "2002"
+                            },
+                            {
+                                "valeur": "9593",
+                                "annee": "2003"
+                            },
+                            {
+                                "valeur": "10419",
+                                "annee": "2004"
+                            },
+                            {
+                                "valeur": "9825",
+                                "annee": "2005"
+                            },
+                            {
+                                "valeur": "11526",
+                                "annee": "2006"
+                            },
+                            {
+                                "valeur": "15264",
+                                "annee": "2007"
+                            },
+                            {
+                                "valeur": "14930",
+                                "annee": "2008"
+                            },
+                            {
+                                "valeur": "16310",
+                                "annee": "2009"
+                            },
+                            {
+                                "valeur": "19024",
+                                "annee": "2010"
+                            },
+                            {
+                                "valeur": "21112",
+                                "annee": "2011"
+                            },
+                            {
+                                "valeur": "22694",
+                                "annee": "2012"
+                            },
+                            {
+                                "valeur": "25501",
+                                "annee": "2013"
+                            },
+                            {
+                                "valeur": "26022",
+                                "annee": "2014"
+                            },
+                            {
+                                "valeur": "26932",
+                                "annee": "2015"
+                            },
+                            {
+                                "valeur": "29084",
+                                "annee": "2016"
+                            },
+                            {
+                                "valeur": "30509",
+                                "annee": "2017"
+                            },
+                            {
+                                "valeur": "31418",
+                                "annee": "2018"
+                            },
+                            {
+                                "valeur": "33365",
+                                "annee": "2019"
+                            }
+                        ],
+                        "libelle": "Tronc commun"
+                    },
+                    "rang-level": 1
+                },
+                {
+                    "serie": {
+                        "data": [
+                            {
+                                "valeur": "972",
+                                "annee": "1970"
+                            },
+                            {
+                                "valeur": "580",
+                                "annee": "1971"
+                            },
+                            {
+                                "valeur": "1269",
+                                "annee": "1972"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1973"
+                            },
+                            {
+                                "valeur": "1427",
+                                "annee": "1974"
+                            },
+                            {
+                                "valeur": "1299",
+                                "annee": "1975"
+                            },
+                            {
+                                "valeur": "2109",
+                                "annee": "1976"
+                            },
+                            {
+                                "valeur": "1663",
+                                "annee": "1977"
+                            },
+                            {
+                                "valeur": "1775",
+                                "annee": "1978"
+                            },
+                            {
+                                "valeur": "1939",
+                                "annee": "1979"
+                            },
+                            {
+                                "valeur": "1925",
+                                "annee": "1980"
+                            },
+                            {
+                                "valeur": "2142",
+                                "annee": "1981"
+                            },
+                            {
+                                "valeur": "2494",
+                                "annee": "1982"
+                            },
+                            {
+                                "valeur": "3346",
+                                "annee": "1983"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1984"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1985"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1986"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1987"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1988"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1989"
+                            },
+                            {
+                                "valeur": "3002",
+                                "annee": "1990"
+                            },
+                            {
+                                "valeur": "2446",
+                                "annee": "1991"
+                            },
+                            {
+                                "valeur": "2872",
+                                "annee": "1992"
+                            },
+                            {
+                                "valeur": "2576",
+                                "annee": "1993"
+                            },
+                            {
+                                "valeur": "2757",
+                                "annee": "1994"
+                            },
+                            {
+                                "valeur": "2971",
+                                "annee": "1995"
+                            },
+                            {
+                                "valeur": "2941",
+                                "annee": "1996"
+                            },
+                            {
+                                "valeur": "2805",
+                                "annee": "1997"
+                            },
+                            {
+                                "valeur": "3171",
+                                "annee": "1998"
+                            },
+                            {
+                                "valeur": "3190",
+                                "annee": "1999"
+                            },
+                            {
+                                "valeur": "4116",
+                                "annee": "2000"
+                            },
+                            {
+                                "valeur": "3699",
+                                "annee": "2001"
+                            },
+                            {
+                                "valeur": "3613",
+                                "annee": "2002"
+                            },
+                            {
+                                "valeur": "3628",
+                                "annee": "2003"
+                            },
+                            {
+                                "valeur": "4200",
+                                "annee": "2004"
+                            },
+                            {
+                                "valeur": "3810",
+                                "annee": "2005"
+                            },
+                            {
+                                "valeur": "4612",
+                                "annee": "2006"
+                            },
+                            {
+                                "valeur": "6416",
+                                "annee": "2007"
+                            },
+                            {
+                                "valeur": "6308",
+                                "annee": "2008"
+                            },
+                            {
+                                "valeur": "7203",
+                                "annee": "2009"
+                            },
+                            {
+                                "valeur": "8546",
+                                "annee": "2010"
+                            },
+                            {
+                                "valeur": "9237",
+                                "annee": "2011"
+                            },
+                            {
+                                "valeur": "10204",
+                                "annee": "2012"
+                            },
+                            {
+                                "valeur": "11920",
+                                "annee": "2013"
+                            },
+                            {
+                                "valeur": "12205",
+                                "annee": "2014"
+                            },
+                            {
+                                "valeur": "12821",
+                                "annee": "2015"
+                            },
+                            {
+                                "valeur": "14231",
+                                "annee": "2016"
+                            },
+                            {
+                                "valeur": "14945",
+                                "annee": "2017"
+                            },
+                            {
+                                "valeur": "15583",
+                                "annee": "2018"
+                            },
+                            {
+                                "valeur": "16753",
+                                "annee": "2019"
+                            }
+                        ],
+                        "libelle": "Tronc commun-Feminin"
+                    },
+                    "rang-level": 2
+                }
+            ],
+            "rang-level": 2
+        },
+        {
+            "sub-levels": [
+                {
+                    "serie": {
+                        "data": [
+                            {
+                                "valeur": "2232",
+                                "annee": "1970"
+                            },
+                            {
+                                "valeur": "1267",
+                                "annee": "1971"
+                            },
+                            {
+                                "valeur": "2281",
+                                "annee": "1972"
+                            },
+                            {
+                                "valeur": "2266",
+                                "annee": "1973"
+                            },
+                            {
+                                "valeur": "2409",
+                                "annee": "1974"
+                            },
+                            {
+                                "valeur": "2236",
+                                "annee": "1975"
+                            },
+                            {
+                                "valeur": "3395",
+                                "annee": "1976"
+                            },
+                            {
+                                "valeur": "2927",
+                                "annee": "1977"
+                            },
+                            {
+                                "valeur": "2832",
+                                "annee": "1978"
+                            },
+                            {
+                                "valeur": "3042",
+                                "annee": "1979"
+                            },
+                            {
+                                "valeur": "3574",
+                                "annee": "1980"
+                            },
+                            {
+                                "valeur": "3695",
+                                "annee": "1981"
+                            },
+                            {
+                                "valeur": "4814",
+                                "annee": "1982"
+                            },
+                            {
+                                "valeur": "5728",
+                                "annee": "1983"
+                            },
+                            {
+                                "valeur": "6095",
+                                "annee": "1984"
+                            },
+                            {
+                                "valeur": "6692",
+                                "annee": "1985"
+                            },
+                            {
+                                "valeur": "7955",
+                                "annee": "1986"
+                            },
+                            {
+                                "valeur": "9963",
+                                "annee": "1987"
+                            },
+                            {
+                                "valeur": "9653",
+                                "annee": "1988"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1989"
+                            },
+                            {
+                                "valeur": "8583",
+                                "annee": "1990"
+                            },
+                            {
+                                "valeur": "4508",
+                                "annee": "1991"
+                            },
+                            {
+                                "valeur": "8290",
+                                "annee": "1992"
+                            },
+                            {
+                                "valeur": "8454",
+                                "annee": "1993"
+                            },
+                            {
+                                "valeur": "8434",
+                                "annee": "1994"
+                            },
+                            {
+                                "valeur": "8828",
+                                "annee": "1995"
+                            },
+                            {
+                                "valeur": "9404",
+                                "annee": "1996"
+                            },
+                            {
+                                "valeur": "9317",
+                                "annee": "1997"
+                            },
+                            {
+                                "valeur": "8835",
+                                "annee": "1998"
+                            },
+                            {
+                                "valeur": "9097",
+                                "annee": "1999"
+                            },
+                            {
+                                "valeur": "8928",
+                                "annee": "2000"
+                            },
+                            {
+                                "valeur": "10624",
+                                "annee": "2001"
+                            },
+                            {
+                                "valeur": "8740",
+                                "annee": "2002"
+                            },
+                            {
+                                "valeur": "8427",
+                                "annee": "2003"
+                            },
+                            {
+                                "valeur": "9056",
+                                "annee": "2004"
+                            },
+                            {
+                                "valeur": "9235",
+                                "annee": "2005"
+                            },
+                            {
+                                "valeur": "9585",
+                                "annee": "2006"
+                            },
+                            {
+                                "valeur": "12770",
+                                "annee": "2007"
+                            },
+                            {
+                                "valeur": "12202",
+                                "annee": "2008"
+                            },
+                            {
+                                "valeur": "13646",
+                                "annee": "2009"
+                            },
+                            {
+                                "valeur": "17242",
+                                "annee": "2010"
+                            },
+                            {
+                                "valeur": "20011",
+                                "annee": "2011"
+                            },
+                            {
+                                "valeur": "21676",
+                                "annee": "2012"
+                            },
+                            {
+                                "valeur": "23930",
+                                "annee": "2013"
+                            },
+                            {
+                                "valeur": "25393",
+                                "annee": "2014"
+                            },
+                            {
+                                "valeur": "26209",
+                                "annee": "2015"
+                            },
+                            {
+                                "valeur": "27706",
+                                "annee": "2016"
+                            },
+                            {
+                                "valeur": "29094",
+                                "annee": "2017"
+                            },
+                            {
+                                "valeur": "30351",
+                                "annee": "2018"
+                            },
+                            {
+                                "valeur": "31998",
+                                "annee": "2019"
+                            }
+                        ],
+                        "libelle": "1 ère année bac"
+                    },
+                    "rang-level": 1
+                },
+                {
+                    "serie": {
+                        "data": [
+                            {
+                                "valeur": "784",
+                                "annee": "1970"
+                            },
+                            {
+                                "valeur": "398",
+                                "annee": "1971"
+                            },
+                            {
+                                "valeur": "1030",
+                                "annee": "1972"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1973"
+                            },
+                            {
+                                "valeur": "1168",
+                                "annee": "1974"
+                            },
+                            {
+                                "valeur": "1013",
+                                "annee": "1975"
+                            },
+                            {
+                                "valeur": "1607",
+                                "annee": "1976"
+                            },
+                            {
+                                "valeur": "1315",
+                                "annee": "1977"
+                            },
+                            {
+                                "valeur": "1300",
+                                "annee": "1978"
+                            },
+                            {
+                                "valeur": "1334",
+                                "annee": "1979"
+                            },
+                            {
+                                "valeur": "1534",
+                                "annee": "1980"
+                            },
+                            {
+                                "valeur": "1516",
+                                "annee": "1981"
+                            },
+                            {
+                                "valeur": "1834",
+                                "annee": "1982"
+                            },
+                            {
+                                "valeur": "2257",
+                                "annee": "1983"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1984"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1985"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1986"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1987"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1988"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1989"
+                            },
+                            {
+                                "valeur": "2829",
+                                "annee": "1990"
+                            },
+                            {
+                                "valeur": "2534",
+                                "annee": "1991"
+                            },
+                            {
+                                "valeur": "2649",
+                                "annee": "1992"
+                            },
+                            {
+                                "valeur": "2749",
+                                "annee": "1993"
+                            },
+                            {
+                                "valeur": "2649",
+                                "annee": "1994"
+                            },
+                            {
+                                "valeur": "3140",
+                                "annee": "1995"
+                            },
+                            {
+                                "valeur": "3196",
+                                "annee": "1996"
+                            },
+                            {
+                                "valeur": "3376",
+                                "annee": "1997"
+                            },
+                            {
+                                "valeur": "3255",
+                                "annee": "1998"
+                            },
+                            {
+                                "valeur": "3391",
+                                "annee": "1999"
+                            },
+                            {
+                                "valeur": "3556",
+                                "annee": "2000"
+                            },
+                            {
+                                "valeur": "4262",
+                                "annee": "2001"
+                            },
+                            {
+                                "valeur": "3427",
+                                "annee": "2002"
+                            },
+                            {
+                                "valeur": "3178",
+                                "annee": "2003"
+                            },
+                            {
+                                "valeur": "3738",
+                                "annee": "2004"
+                            },
+                            {
+                                "valeur": "3585",
+                                "annee": "2005"
+                            },
+                            {
+                                "valeur": "3751",
+                                "annee": "2006"
+                            },
+                            {
+                                "valeur": "5427",
+                                "annee": "2007"
+                            },
+                            {
+                                "valeur": "5109",
+                                "annee": "2008"
+                            },
+                            {
+                                "valeur": "5719",
+                                "annee": "2009"
+                            },
+                            {
+                                "valeur": "7739",
+                                "annee": "2010"
+                            },
+                            {
+                                "valeur": "8950",
+                                "annee": "2011"
+                            },
+                            {
+                                "valeur": "9409",
+                                "annee": "2012"
+                            },
+                            {
+                                "valeur": "10933",
+                                "annee": "2013"
+                            },
+                            {
+                                "valeur": "11619",
+                                "annee": "2014"
+                            },
+                            {
+                                "valeur": "12117",
+                                "annee": "2015"
+                            },
+                            {
+                                "valeur": "13003",
+                                "annee": "2016"
+                            },
+                            {
+                                "valeur": "14123",
+                                "annee": "2017"
+                            },
+                            {
+                                "valeur": "14695",
+                                "annee": "2018"
+                            },
+                            {
+                                "valeur": "15594",
+                                "annee": "2019"
+                            }
+                        ],
+                        "libelle": "1 ère année bac-Feminin"
+                    },
+                    "rang-level": 2
+                }
+            ],
+            "rang-level": 3
+        },
+        {
+            "sub-levels": [
+                {
+                    "serie": {
+                        "data": [
+                            {
+                                "valeur": "2970",
+                                "annee": "1970"
+                            },
+                            {
+                                "valeur": "1994",
+                                "annee": "1971"
+                            },
+                            {
+                                "valeur": "2420",
+                                "annee": "1972"
+                            },
+                            {
+                                "valeur": "2486",
+                                "annee": "1973"
+                            },
+                            {
+                                "valeur": "2204",
+                                "annee": "1974"
+                            },
+                            {
+                                "valeur": "2210",
+                                "annee": "1975"
+                            },
+                            {
+                                "valeur": "3041",
+                                "annee": "1976"
+                            },
+                            {
+                                "valeur": "2944",
+                                "annee": "1977"
+                            },
+                            {
+                                "valeur": "3118",
+                                "annee": "1978"
+                            },
+                            {
+                                "valeur": "3215",
+                                "annee": "1979"
+                            },
+                            {
+                                "valeur": "3517",
+                                "annee": "1980"
+                            },
+                            {
+                                "valeur": "4354",
+                                "annee": "1981"
+                            },
+                            {
+                                "valeur": "4998",
+                                "annee": "1982"
+                            },
+                            {
+                                "valeur": "5953",
+                                "annee": "1983"
+                            },
+                            {
+                                "valeur": "6950",
+                                "annee": "1984"
+                            },
+                            {
+                                "valeur": "7934",
+                                "annee": "1985"
+                            },
+                            {
+                                "valeur": "9846",
+                                "annee": "1986"
+                            },
+                            {
+                                "valeur": "11530",
+                                "annee": "1987"
+                            },
+                            {
+                                "valeur": "11716",
+                                "annee": "1988"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1989"
+                            },
+                            {
+                                "valeur": "10383",
+                                "annee": "1990"
+                            },
+                            {
+                                "valeur": "6682",
+                                "annee": "1991"
+                            },
+                            {
+                                "valeur": "11547",
+                                "annee": "1992"
+                            },
+                            {
+                                "valeur": "10533",
+                                "annee": "1993"
+                            },
+                            {
+                                "valeur": "10259",
+                                "annee": "1994"
+                            },
+                            {
+                                "valeur": "10886",
+                                "annee": "1995"
+                            },
+                            {
+                                "valeur": "12677",
+                                "annee": "1996"
+                            },
+                            {
+                                "valeur": "13454",
+                                "annee": "1997"
+                            },
+                            {
+                                "valeur": "12644",
+                                "annee": "1998"
+                            },
+                            {
+                                "valeur": "11644",
+                                "annee": "1999"
+                            },
+                            {
+                                "valeur": "11960",
+                                "annee": "2000"
+                            },
+                            {
+                                "valeur": "11768",
+                                "annee": "2001"
+                            },
+                            {
+                                "valeur": "12836",
+                                "annee": "2002"
+                            },
+                            {
+                                "valeur": "10716",
+                                "annee": "2003"
+                            },
+                            {
+                                "valeur": "10274",
+                                "annee": "2004"
+                            },
+                            {
+                                "valeur": "10546",
+                                "annee": "2005"
+                            },
+                            {
+                                "valeur": "11821",
+                                "annee": "2006"
+                            },
+                            {
+                                "valeur": "15085",
+                                "annee": "2007"
+                            },
+                            {
+                                "valeur": "14636",
+                                "annee": "2008"
+                            },
+                            {
+                                "valeur": "16038",
+                                "annee": "2009"
+                            },
+                            {
+                                "valeur": "20890",
+                                "annee": "2010"
+                            },
+                            {
+                                "valeur": "24832",
+                                "annee": "2011"
+                            },
+                            {
+                                "valeur": "29074",
+                                "annee": "2012"
+                            },
+                            {
+                                "valeur": "29033",
+                                "annee": "2013"
+                            },
+                            {
+                                "valeur": "31410",
+                                "annee": "2014"
+                            },
+                            {
+                                "valeur": "32650",
+                                "annee": "2015"
+                            },
+                            {
+                                "valeur": "32468",
+                                "annee": "2016"
+                            },
+                            {
+                                "valeur": "32772",
+                                "annee": "2017"
+                            },
+                            {
+                                "valeur": "34970",
+                                "annee": "2018"
+                            },
+                            {
+                                "valeur": "36177",
+                                "annee": "2019"
+                            }
+                        ],
+                        "libelle": "2 ème année bac"
+                    },
+                    "rang-level": 1
+                },
+                {
+                    "serie": {
+                        "data": [
+                            {
+                                "valeur": "984",
+                                "annee": "1970"
+                            },
+                            {
+                                "valeur": "591",
+                                "annee": "1971"
+                            },
+                            {
+                                "valeur": "932",
+                                "annee": "1972"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1973"
+                            },
+                            {
+                                "valeur": "1027",
+                                "annee": "1974"
+                            },
+                            {
+                                "valeur": "919",
+                                "annee": "1975"
+                            },
+                            {
+                                "valeur": "1394",
+                                "annee": "1976"
+                            },
+                            {
+                                "valeur": "1216",
+                                "annee": "1977"
+                            },
+                            {
+                                "valeur": "1336",
+                                "annee": "1978"
+                            },
+                            {
+                                "valeur": "1430",
+                                "annee": "1979"
+                            },
+                            {
+                                "valeur": "1539",
+                                "annee": "1980"
+                            },
+                            {
+                                "valeur": "1846",
+                                "annee": "1981"
+                            },
+                            {
+                                "valeur": "1959",
+                                "annee": "1982"
+                            },
+                            {
+                                "valeur": "2439",
+                                "annee": "1983"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1984"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1985"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1986"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1987"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1988"
+                            },
+                            {
+                                "valeur": null,
+                                "annee": "1989"
+                            },
+                            {
+                                "valeur": "3183",
+                                "annee": "1990"
+                            },
+                            {
+                                "valeur": "3646",
+                                "annee": "1991"
+                            },
+                            {
+                                "valeur": "3786",
+                                "annee": "1992"
+                            },
+                            {
+                                "valeur": "3383",
+                                "annee": "1993"
+                            },
+                            {
+                                "valeur": "3378",
+                                "annee": "1994"
+                            },
+                            {
+                                "valeur": "3957",
+                                "annee": "1995"
+                            },
+                            {
+                                "valeur": "4328",
+                                "annee": "1996"
+                            },
+                            {
+                                "valeur": "4460",
+                                "annee": "1997"
+                            },
+                            {
+                                "valeur": "4293",
+                                "annee": "1998"
+                            },
+                            {
+                                "valeur": "4168",
+                                "annee": "1999"
+                            },
+                            {
+                                "valeur": "4547",
+                                "annee": "2000"
+                            },
+                            {
+                                "valeur": "4662",
+                                "annee": "2001"
+                            },
+                            {
+                                "valeur": "4853",
+                                "annee": "2002"
+                            },
+                            {
+                                "valeur": "3894",
+                                "annee": "2003"
+                            },
+                            {
+                                "valeur": "3895",
+                                "annee": "2004"
+                            },
+                            {
+                                "valeur": "4004",
+                                "annee": "2005"
+                            },
+                            {
+                                "valeur": "4559",
+                                "annee": "2006"
+                            },
+                            {
+                                "valeur": "6036",
+                                "annee": "2007"
+                            },
+                            {
+                                "valeur": "5899",
+                                "annee": "2008"
+                            },
+                            {
+                                "valeur": "6563",
+                                "annee": "2009"
+                            },
+                            {
+                                "valeur": "8738",
+                                "annee": "2010"
+                            },
+                            {
+                                "valeur": "10572",
+                                "annee": "2011"
+                            },
+                            {
+                                "valeur": "12326",
+                                "annee": "2012"
+                            },
+                            {
+                                "valeur": "12479",
+                                "annee": "2013"
+                            },
+                            {
+                                "valeur": "13511",
+                                "annee": "2014"
+                            },
+                            {
+                                "valeur": "14690",
+                                "annee": "2015"
+                            },
+                            {
+                                "valeur": "14645",
+                                "annee": "2016"
+                            },
+                            {
+                                "valeur": "14785",
+                                "annee": "2017"
+                            },
+                            {
+                                "valeur": "16313",
+                                "annee": "2018"
+                            },
+                            {
+                                "valeur": "17056",
+                                "annee": "2019"
+                            }
+                        ],
+                        "libelle": "2 ème année bac-Feminin"
+                    },
+                    "rang-level": 2
+                }
+            ],
+            "rang-level": 4
+        }
+    ],
+    "dimensions": [
+        {
+            "libelle": "Niveaux secondaire qualifiant",
+            "h": false,
+            "modalites": [
+                {
+                    "libelle": "Total",
+                    "rang": 1
+                },
+                {
+                    "libelle": "Tronc commun",
+                    "rang": 2
+                },
+                {
+                    "libelle": "1 ère année bac",
+                    "rang": 3
+                },
+                {
+                    "libelle": "2 ème année bac",
+                    "rang": 4
+                }
+            ],
+            "rang": 1
+        },
+        {
+            "libelle": "Sexe",
+            "h": false,
+            "modalites": [
+                {
+                    "libelle": "Total",
+                    "rang": 1
+                },
+                {
+                    "libelle": "Feminin",
+                    "rang": 2
+                }
+            ],
+            "rang": 2
+        }
+    ]
+}

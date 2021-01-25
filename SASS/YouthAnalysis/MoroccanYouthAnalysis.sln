@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MoroccanYouthAnalysis", "MoroccanYouthAnalysis.dwproj", "{C8831B6D-1AF4-4D87-BE76-0F00599F94FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8831B6D-1AF4-4D87-BE76-0F00599F94FC}.Development|Default.ActiveCfg = Development
+		{C8831B6D-1AF4-4D87-BE76-0F00599F94FC}.Development|Default.Build.0 = Development
+		{C8831B6D-1AF4-4D87-BE76-0F00599F94FC}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86F3EB0-2CF0-4410-A517-167A5A2E5CE0}
+	EndGlobalSection
+EndGlobal

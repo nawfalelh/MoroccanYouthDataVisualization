@@ -1,0 +1,25 @@
+Series Name,Series Code
+"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",SL.EMP.1524.SP.FE.ZS
+"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",SL.EMP.1524.SP.MA.ZS
+"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS
+"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS
+"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS
+"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS
+"Cause of death, by communicable diseases, ages 15-34, female (% of relevant age group)",SH.DTH.COMM.1534.FE.ZS
+"Cause of death, by communicable diseases, ages 15-34, male (% of relevant age group)",SH.DTH.COMM.1534.MA.ZS
+"Cause of death, by injury, ages 15-34, female  (% of relevant age group)",SH.DTH.INJR.1534.FE.ZS
+"Cause of death, by injury, ages 15-34, male (% of relevant age group)",SH.DTH.INJR.1534.MA.ZS
+"Cause of death, by non-communicable diseases, ages 15-34, female (% of relevant age group)",SH.DTH.NCOM.1534.FE.ZS
+"Cause of death, by non-communicable diseases, ages 15-34, male (% of relevant age group)",SH.DTH.NCOM.1534.MA.ZS
+"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y
+"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y
+"Population, male",SP.POP.TOTL.MA.IN
+"Population, female",SP.POP.TOTL.FE.IN
+"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y
+"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y
+"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y
+"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y
+"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y
+"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y
